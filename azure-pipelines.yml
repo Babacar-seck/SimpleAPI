@@ -7,7 +7,8 @@ trigger:
 - main
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'PA-7BMTVL3' #Name of a pool
+  demands: Agent.Name -equals PA-7BMTVL3
 
 variables:
   buildConfiguration: 'Release'
