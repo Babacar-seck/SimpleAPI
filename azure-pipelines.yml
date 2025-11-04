@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'PA-7BMTVL3' #Name of a pool
+  name: 'PA-7BMTVL3' #Name of a pool
   demands: Agent.Name -equals PA-7BMTVL3
 
 variables:
