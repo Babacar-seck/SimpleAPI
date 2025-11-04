@@ -12,7 +12,7 @@ stages:
   jobs:
   - job: Build
     pool:
-      name: PA-7BMTVL3
+      name: Default
       demands: Agent.Name -equals PA-7BMTVL3
     steps:
     - task: DotNetCoreCLI@2
