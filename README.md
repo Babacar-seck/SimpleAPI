@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/Babacarseckdevweb0418/Simple%20API%20Too/_apis/build/status%2FBabacar-seck.SimpleAPI?branchName=main)](https://dev.azure.com/Babacarseckdevweb0418/Simple%20API%20Too/_build/latest?definitionId=2&branchName=main)
